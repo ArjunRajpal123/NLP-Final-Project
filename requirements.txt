@@ -1,0 +1,9 @@
+lda
+pandas
+numpy
+nltk
+scikit-learn
+scipy
+torch
+gensim
+regex
