@@ -6,8 +6,9 @@
 1. We ran this notebook using Azure ML notebooks where we used a computer with 6 cores, 54 gb of ram, and an Nvidia Graphics Card. Even then, this code took several hours to run and the notebook was especially slow when producing results for the models using the ARP dataset. Ensure your computer is up to these specs before running.
 
 ## Files and what they have/do
-1. nlp_final_code.ipynb - final code notebook
-
+1. nlp_final_code.ipynb - final code notebook - used for development
+2. PV.py - fits paragraph vector models and prints relevent metrics for each model
+2. lda.py - fits lda models and prints relevent metrics for each model
 
 ## Package Requirements
 ### Must download the following
