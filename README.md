@@ -11,7 +11,9 @@
 
 ## Package Requirements
 ### Must download the following
-!pip install mindspore
+#### These are also included in requirements.txt
+
+
 !pip install lda
 !pip install pandas
 !pip install numpy
