@@ -14,7 +14,7 @@
 ### Must download the following
 #### These are also included in requirements.txt
 
-
+```
 !pip install lda
 !pip install pandas
 !pip install numpy
@@ -24,6 +24,7 @@
 !pip install torch
 !pip install gensim
 !pip install regex
+```
 
 ## Data Requirements
 ### Must Download the following and keep in project directory when running the notebook - do not change the file names
